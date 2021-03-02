@@ -1,0 +1,14 @@
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\obj\Debug\TestProgramEn.csprojAssemblyReference.cache
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\obj\Debug\TestProgramEn.edit_screen.resources
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\obj\Debug\TestProgramEn.edit_test_no.resources
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\obj\Debug\TestProgramEn.menu.resources
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\obj\Debug\TestProgramEn.login.resources
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\obj\Debug\TestProgramEn.Properties.Resources.resources
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\obj\Debug\TestProgramEn.search_screen.resources
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\obj\Debug\TestProgramEn.csproj.GenerateResource.cache
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\obj\Debug\TestProgramEn.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\bin\Debug\TestProgramEn.exe.config
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\bin\Debug\TestProgramEn.exe
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\bin\Debug\TestProgramEn.pdb
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\obj\Debug\TestProgramEn.exe
+C:\Users\sinan\source\repos\TestProgramEn\TestProgramEn\obj\Debug\TestProgramEn.pdb
